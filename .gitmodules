@@ -1,0 +1,63 @@
+[submodule "bundle/a.vim.git"]
+	path = bundle/a.vim.git
+	url = https://github.com/vim-scripts/a.vim.git
+[submodule "bundle/ctrlp.vim.git"]
+	path = bundle/ctrlp.vim.git
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "bundle/CRefVim.git"]
+	path = bundle/CRefVim.git
+	url = https://github.com/vim-scripts/CRefVim.git
+[submodule "bundle/Gundo.git"]
+	path = bundle/Gundo.git
+	url = https://github.com/vim-scripts/Gundo.git
+[submodule "bundle/snipmate.vim.git"]
+	path = bundle/snipmate.vim.git
+	url = https://github.com/msanders/snipmate.vim.git
+[submodule "bundle/taglist.vim.git"]
+	path = bundle/taglist.vim.git
+	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "bundle/tComment.git"]
+	path = bundle/tComment.git
+	url = https://github.com/vim-scripts/tComment.git
+[submodule "bundle/The-NERD-tree.git"]
+	path = bundle/The-NERD-tree.git
+	url = https://github.com/vim-scripts/The-NERD-tree.git
+[submodule "bundle/vcscommand.vim.git"]
+	path = bundle/vcscommand.vim.git
+	url = https://github.com/vim-scripts/vcscommand.vim.git
+[submodule "bundle/vim-fugitive.git"]
+	path = bundle/vim-fugitive.git
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/vim-powerline.git"]
+	path = bundle/vim-powerline.git
+	url = https://github.com/Lokaltog/vim-powerline.git
+[submodule "bundle/vim-git.git"]
+	path = bundle/vim-git.git
+	url = https://github.com/tpope/vim-git.git
+[submodule "bundle/ack.vim.git"]
+	path = bundle/ack.vim.git
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "bundle/pep8.git"]
+	path = bundle/pep8.git
+	url = https://github.com/vim-scripts/pep8.git
+[submodule "bundle/pytest.vim.git"]
+	path = bundle/pytest.vim.git
+	url = https://github.com/alfredodeza/pytest.vim.git
+[submodule "bundle/jellybeans.vim.git"]
+	path = bundle/jellybeans.vim.git
+	url = https://github.com/nanotech/jellybeans.vim.git
+[submodule "bundle/vim-bufexplorer.git"]
+	path = bundle/vim-bufexplorer.git
+	url = https://github.com/thisivan/vim-bufexplorer.git
+[submodule "bundle/Align.git"]
+	path = bundle/Align.git
+	url = https://github.com/vim-scripts/Align.git
+[submodule "bundle/matchit.zip.git"]
+	path = bundle/matchit.zip.git
+	url = git://github.com/vim-scripts/matchit.zip.git
+[submodule "bundle/file-line.git"]
+	path = bundle/file-line.git
+	url = git://github.com/vim-scripts/file-line.git
+[submodule "bundle/txt2tags.git"]
+	path = bundle/txt2tags.git
+	url = git://github.com/vim-scripts/txt2tags.git
